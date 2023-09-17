@@ -17,3 +17,12 @@ This tool transforms a world exported from World Anvil into a lorebook file comp
     - Extra tags can be added manually in the SillyTavern UI
 - Commas in names will result in SillyTavern assuming that name is two seperate tags
     - This is often desirable e.g. `Eos, Steward of Time` triggers on both `Eos` and `Steward of Time`
+
+
+## Building
+- Clone the repo and build with go 1.20+ as `go build .`
+
+## Contributions
+Feel free to file issues, feature requests and PRs.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8GTT67)
